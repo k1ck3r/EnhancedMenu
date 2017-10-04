@@ -5,3 +5,5 @@ Files are updated to include an option to open a popup window (instead of chatbo
 Also updated Armory box to be popup instead of a chat one.
 
 Hope you appreciate my edit.
+
+
